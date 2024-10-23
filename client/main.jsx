@@ -1,0 +1,2 @@
+import '/imports/ui/App';
+
